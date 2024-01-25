@@ -7,3 +7,5 @@
 ### 2. To complete the task using only `setTimeout` function.
 
 ### 3. After completing the task I was deployed my code into `netlify.com`.
+
+[Click here to see my work](https://bhaskar-happy-independence-day.netlify.app/)
